@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
-  imageBackground: false,
+  name: 'Eli',
+  imageBackground: true,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning,',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to Sleep,',
 
   // Layout
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -59,9 +59,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'GoMicro',
+      icon: 'gitlab',
+      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro',
     },
     {
       id: '3',
@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'SonarQube',
+      icon: 'sonar',
+      link: 'sonarqube.csde.caci.com/dashboard?id=ibs-ns_sustainment_and_modernization%3Agomicro',
     },
   ],
 
@@ -139,20 +139,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Lofi',
+          link: 'https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Likes',
+          link: 'https://open.spotify.com/collection/tracks',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Discover Weekly',
+          link: 'https://open.spotify.com/playlist/37i9dQZEVXcSNWCSMJ5ENR',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Release Radar',
+          link: 'https://open.spotify.com/playlist/37i9dQZEVXcSNWCSMJ5ENR',
         },
       ],
     },
