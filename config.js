@@ -26,7 +26,7 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '${{ env.MY_OWM_KEY }}', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,15 +53,15 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
+      name: 'GoMicro',
       icon: 'github',
       link: 'https://github.com/',
     },
     {
       id: '2',
-      name: 'GoMicro',
+      name: 'GoMicro Commits',
       icon: 'gitlab',
-      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro',
+      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro/-/commits/main',
     },
     {
       id: '3',
@@ -84,7 +84,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'SonarQube',
-      icon: 'sonar',
+      icon: 'scan',
       link: 'sonarqube.csde.caci.com/dashboard?id=ibs-ns_sustainment_and_modernization%3Agomicro',
     },
   ],
