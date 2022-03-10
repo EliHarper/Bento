@@ -55,7 +55,7 @@ const CONFIG = {
       id: '1',
       name: 'GoMicro',
       icon: 'gitlab',
-      link: 'https://github.com/',
+      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro/',
     },
     {
       id: '2',
@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'SonarQube',
       icon: 'scan',
-      link: 'sonarqube.csde.caci.com/dashboard?id=ibs-ns_sustainment_and_modernization%3Agomicro',
+      link: 'https://sonarqube.csde.caci.com/dashboard?id=ibs-ns_sustainment_and_modernization%3Agomicro',
     },
   ],
 
@@ -205,24 +205,24 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'github',
+      icon: 'gitlab',
       id: '2',
       links: [
         {
-          name: 'Front',
-          link: 'https://www.reddit.com/r/Frontend/',
+          name: 'UI',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
         },
         {
-          name: 'Rust',
-          link: 'https://www.reddit.com/r/rust/',
+          name: 'Scripz',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
         },
         {
-          name: 'Go',
-          link: 'https://www.reddit.com/r/golang/',
+          name: 'Translator',
+          link: 'https://gitlab.csde.caci.com/eli.harper/simpletranslator',
         },
         {
-          name: 'Repos',
-          link: 'https://github.com/migueravila',
+          name: 'Charts',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
         },
       ],
     },
