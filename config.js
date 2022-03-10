@@ -26,7 +26,7 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: '${{ secrets.MY_OWM_KEY }}', // Write here your API Key
+  weatherKey: '5b82925104cf705bae58dc88b03f96ab', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -54,13 +54,13 @@ const CONFIG = {
     {
       id: '1',
       name: 'GoMicro',
-      icon: 'github',
+      icon: 'gitlab',
       link: 'https://github.com/',
     },
     {
       id: '2',
       name: 'GoMicro Commits',
-      icon: 'gitlab',
+      icon: 'git-commit',
       link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro/-/commits/main',
     },
     {
@@ -77,9 +77,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'O\'Reilly',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://learning.oreilly.com/home/',
     },
     {
       id: '6',
