@@ -157,24 +157,24 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'gitlab',
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'UI',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Scripz',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Translator',
+          link: 'https://gitlab.csde.caci.com/eli.harper/simpletranslator',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Charts',
+          link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
         },
       ],
     },
@@ -205,24 +205,24 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'gitlab',
+      icon: 'coffee',
       id: '2',
       links: [
         {
-          name: 'UI',
-          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
+          name: 'Linkedin',
+          link: 'https://www.linkedin.com',
         },
         {
-          name: 'Scripz',
-          link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
+          name: 'Dribbble',
+          link: 'https://www.dribbble.com',
         },
         {
-          name: 'Translator',
-          link: 'https://gitlab.csde.caci.com/eli.harper/simpletranslator',
+          name: 'Trello',
+          link: 'https://www.trello.com',
         },
         {
-          name: 'Charts',
-          link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
+          name: 'Slack',
+          link: 'https://www.slack.com',
         },
       ],
     },
