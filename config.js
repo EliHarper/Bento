@@ -152,7 +152,7 @@ const CONFIG = {
         },
         {
           name: 'Release Radar',
-          link: 'https://open.spotify.com/playlist/37i9dQZEVXcSNWCSMJ5ENR',
+          link: 'https://open.spotify.com/playlist/37i9dQZEVXbug9MJ134ZwJ?si=d82c7796bc2c499b',
         },
       ],
     },
