@@ -36,10 +36,10 @@ const CONFIG = {
   defaultLongitude: '-122.419',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
-  // Autochabge by OS
-  changeThemeByOS: true,
+  // Autochange by OS
+  changeThemeByOS: false,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: false,
@@ -55,13 +55,13 @@ const CONFIG = {
       id: '1',
       name: 'GoMicro',
       icon: 'gitlab',
-      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro/',
+      link: 'https://gitlab.csde.caci.com/IBS-NS/development/GoMicro/',
     },
     {
       id: '2',
       name: 'GoMicro Commits',
       icon: 'git-commit',
-      link: 'https://gitlab.csde.caci.com/IBS-NS-Sustainment-and-Modernization/development/next-gen/GoMicro/-/commits/main',
+      link: 'https://gitlab.csde.caci.com/IBS-NS/development/GoMicro/-/commits/main',
     },
     {
       id: '3',
