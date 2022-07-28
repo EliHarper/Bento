@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '38.87997',
-	defaultLongitude: '-77.10677',
+	defaultLatitude: '38.881622',
+	defaultLongitude: '-77.090981',
 
 	// Autochange
 	autoChangeTheme: false,
@@ -166,11 +166,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Scripz',
-					link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
+					link: 'https://gitlab.csde.caci.com/eli.harper/scripz',
 				},
 				{
 					name: 'Translator',
-					link: 'https://gitlab.csde.caci.com/eli.harper/simpletranslator',
+					link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
 				},
 				{
 					name: 'Charts',
