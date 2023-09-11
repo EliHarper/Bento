@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'cast-iron pipelines',
-			icon: 'git-commit',
+			icon: 'workflow',
 			link: 'https://gitlab.csde.caci.com/IBS-NS/development/cast-iron/-/pipelines/',
 		},
 		{
@@ -78,13 +78,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'O\'Reilly',
-			icon: 'glasses',
+			icon: 'book-open',
 			link: 'https://learning.oreilly.com/home/',
 		},
 		{
 			id: '6',
 			name: 'Grafana',
-			icon: 'insights',
+			icon: 'area-chart',
 			link: 'https://grafana.ibs.gov/explore',
 		},
 	],
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Scripz',
-					link: 'https://gitlab.csde.caci.com/eli.harper/scripz',
+					name: 'GoMicro',
+					link: 'https://gitlab.csde.caci.com/IBS-NS/development/GoMicro',
 				},
 				{
 					name: 'Monitoring',
