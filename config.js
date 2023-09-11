@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'SonarQube',
-			icon: 'scan',
-			link: 'https://sonarqube.csde.caci.com/dashboard?id=ibs-ns_sustainment_and_modernization%3Agomicro',
+			name: 'Grafana',
+			icon: 'insights',
+			link: 'https://grafana.ibs.gov/explore',
 		},
 	],
 
@@ -161,10 +161,6 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'UI',
-					link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
-				},
-				{
 					name: 'Scripz',
 					link: 'https://gitlab.csde.caci.com/eli.harper/scripz',
 				},
@@ -175,6 +171,10 @@ const CONFIG = {
 				{
 					name: 'Charts',
 					link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
+				},
+                                {
+					name: 'UI',
+					link: 'https://gitlab.csde.caci.com/IBS-NS/development/UI',
 				},
 			],
 		},
