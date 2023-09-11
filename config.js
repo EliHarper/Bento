@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'GoMicro',
+			name: 'cast-iron',
 			icon: 'gitlab',
-			link: 'https://gitlab.csde.caci.com/IBS-NS/development/GoMicro/',
+			link: 'https://gitlab.csde.caci.com/ibs-ns/development/cast-iron/',
 		},
 		{
 			id: '2',
-			name: 'GoMicro Commits',
+			name: 'cast-iron pipelines',
 			icon: 'git-commit',
-			link: 'https://gitlab.csde.caci.com/IBS-NS/development/GoMicro/-/commits/main',
+			link: 'https://gitlab.csde.caci.com/IBS-NS/development/cast-iron/-/pipelines/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Taskade',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://taskade.com',
 		},
 		{
 			id: '4',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://gitlab.csde.caci.com/eli.harper/scripz',
 				},
 				{
-					name: 'Translator',
-					link: 'https://gitlab.csde.caci.com/IBS-NS/development/Charts',
+					name: 'Monitoring',
+					link: 'https://gitlab.csde.caci.com/IBS-NS/development/message-accountability',
 				},
 				{
 					name: 'Charts',
